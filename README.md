@@ -4,7 +4,7 @@
 - **[Master’s in Technology Management](https://som.yale.edu/programs/masters-technology-management)** from the Yale School of Management, Inaugural Class of 2025
 - B.S. in Computer Science & Mathematics from [Yale Collge](https://yalecollege.yale.edu/), Class of 2024
 
-💻 **AI/ML & LLM Specialist** | **Technical Program Manager** | **Educator & Mentor**  
+💻 **AI/ML & LLM Specialist** | **Technical Program Manager** | ** Community College and Tech Mentor**  
 
 ---
 
