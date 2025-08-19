@@ -11,6 +11,8 @@
 ## About Me
 I’m a recent graduate from Yale University that combines a corporate background in large-scale technology deployment and operations with hands-on technical expertise in AI, ML, LLMs, and software development. On campus, I served as a Teaching Fellow for graduate and undergraduate computer science and AI courses, mentoring students in programming, data structures, and applied machine learning. My work bridges the gap between technical execution and strategic impact, whether in the classroom, in industry, or through ventures like Pathway, an AI-powered platform supporting non-traditional community college and veteran transfers.
 
+## Background
+Before transitioning into technical roles, I spent 10+ years in operations leadership, scaling teams and managing complex implementations across global markets. This experience taught me how to bridge business strategy with technical execution—skills I now apply to product development and engineering collaboration. My unique combination of operational scale, formal CS education, and hands-on technical development positions me to excel in technical product management roles where business impact and engineering excellence intersect.
 ---
 
 ## 💼 [Professional Background](https://www.linkedin.com/in/rudy-cordero/)
@@ -42,7 +44,7 @@ I’m a recent graduate from Yale University that combines a corporate backgroun
 ---
 
 ## 📌 Featured Projects
-- **Currently in the process of migrating all of my private projects into github for public review.** 
+- **Building portfolio of full-stack applications - coming soon** 
 - **Pathway** *(private)* – AI-powered transfer support platform for higher education.
 
 ---
