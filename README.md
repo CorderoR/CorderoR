@@ -13,6 +13,7 @@ I’m a recent graduate from Yale University that combines a corporate backgroun
 
 ## Background
 Before transitioning into technical roles, I spent 10+ years in operations leadership, scaling teams and managing complex implementations across global markets. This experience taught me how to bridge business strategy with technical execution—skills I now apply to product development and engineering collaboration. My unique combination of operational scale, formal CS education, and hands-on technical development positions me to excel in technical product management roles where business impact and engineering excellence intersect.
+
 ---
 
 ## 💼 [Professional Background](https://www.linkedin.com/in/rudy-cordero/)
