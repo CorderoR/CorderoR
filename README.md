@@ -14,7 +14,7 @@ I’m a recent graduate from Yale University that combines a corporate backgroun
 ---
 
 ## Background  
-I bring 10+ years of operations leadership experience to technical product management, having scaled teams and managed complex implementations across global markets. This background, combined with my CS education and growing technical skills, enables me to effectively bridge business strategy with engineering execution.
+I bring 10+ years of operations leadership experience to technical product management, having scaled teams and managed complex implementations across global markets. This background, combined with my CS education and growing technical skills, enables me to effectively bridge business strategy with engineering execution in fast-growing technology companies.
 
 ---
 
