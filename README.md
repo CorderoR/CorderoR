@@ -4,12 +4,23 @@
 - **[Master’s in Technology Management](https://som.yale.edu/programs/masters-technology-management)** from the Yale School of Management, Inaugural Class of 2025
 - B.S. in Computer Science & Mathematics from [Yale Collge](https://yalecollege.yale.edu/), Class of 2024
 
-💻 **AI/ML & LLM Specialist** | **Technical Program Manager** | **Community College and Tech Mentor**  
+💻 **AI/ML & LLM Specialist** | **Technology Fellow at Palantir Technologies**| **Technical Program Manager** | **College and Tech Mentor**  
 
 ---
 
 ## About Me
 I’m a recent graduate from Yale University that combines a corporate background in large-scale technology deployment and operations with hands-on technical expertise in AI, ML, LLMs, and software development. On campus, I served as a Teaching Fellow for graduate and undergraduate computer science and AI courses, mentoring students in programming, data structures, and applied machine learning. My work bridges the gap between technical execution and strategic impact, whether in the classroom, in industry, or through ventures like Pathway, an AI-powered platform supporting non-traditional community college and veteran transfers.
+
+---
+
+## American Technology Fellow at Palantir Technologies
+Currently participating in Palantir's inaugural American Tech Fellowship (Fall 2025), a selective intensive program focused on enterprise AI deployment and data-driven decision systems. Working hands-on with:
+- **Palantir Foundry** - Advanced data integration and analysis platform
+- **AIP (Artificial Intelligence Platform)** - Enterprise AI deployment for real-world problem solving
+- **Enterprise Software Development** - Building operational workflows and AI-powered automation
+- **Capstone Project** - Developing end-to-end AI solutions for industrial applications
+
+Selected from 500+ applicants for technical expertise and practical innovation mindset.
 
 ---
 
@@ -43,6 +54,8 @@ I bring 10+ years of operations leadership experience to technical product manag
 - **AI/ML:** PyTorch, TensorFlow, LLMs, NLP, RAG Systems, HuggingFace  
 - **Tools & Systems:** Git, Jupyter, Node.js, Agile/Scrum  
 - **Other:** Data Analysis, UX Design, Project Management
+- **Enterprise Platforms (Ongoing)**: Palantir Foundry, Palantir AIP
+- **Data Operations (Ongoing)**: Enterprise data integration, operational workflows, AI-powered dashboards
 
 ---
 
